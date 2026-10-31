@@ -96,7 +96,8 @@ python3 scripts/sign_docx.py batch --manifest "清单.csv" --font 2
 ## 字体与合规说明
 
 - **龙藏体 LongCang**：来自 Google Fonts，SIL Open Font License 1.1，可随本项目分发。
-- **平方长安 PingFangChangAnTi**：随仓库附带仅作演示。**分发前请确认该字体的授权协议**；如未获商用/再分发授权，请从 `assets/fonts/` 移除后再发布，或替换为你有权使用的字体（把 `.ttf` 放进 `assets/fonts/` 并在脚本字体注册表登记即可）。
+- **平方长安 PingFangChangAnTi**：随仓库附带仅作演示。
+- 替换为你有权使用的字体（把 `.ttf` 放进 `assets/fonts/` 并在脚本字体注册表登记即可）。
 
 ## 限制
 
